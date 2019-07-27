@@ -1,0 +1,8 @@
+name = "krutikaExample"
+tags = {
+  "office-time" = "Mumbai-10"
+  "Project"     = "PE-Training"
+  "Email"       = "krutika.pasalkar@quantiphi.com"
+  "Username"    = "krutika.pasalkar"
+}
+db_password = <enter-your-password>
